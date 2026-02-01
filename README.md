@@ -108,6 +108,19 @@ JB Vehicle Rental System
 
 ---
 
+## License
+This project is released under the **MIT License** and is intended for educational purposes.
+
+---
+
+## Credits
+**Developer:** Hassan Siddiqui  
+**Course:** MSE800 – Professional Software Engineering  
+**Institution:** Yoobee College of Creative Innovation  
+
+---
+
 ## Version Control
 The project is managed using **Git** and hosted on **GitHub**:  
 https://github.com/HSiddiqui-hue/JB-Vehicle-Rental-System
+
