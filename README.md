@@ -1,23 +1,20 @@
 # JB Vehicle Rental System
 
 ## Project Overview
-The **JB Vehicle Rental System** is a console-based Python application developed as part of the **MSE800 – Professional Software Engineering** course.  
-The system automates the vehicle rental process by allowing **customers** to book vehicles and **staff (administrators)** to manage vehicles and rental reservations.
-
-This project demonstrates the application of **object-oriented programming (OOP)** principles, **role-based access control**, and a **service-layer architecture**.
+The JB Vehicle Rental System is a console-based Python application for a rental system that we created as part of our assessment in MSE800. The system automates rental processes by allowing clients to book vehicles, while staff can add, update, approve, and reject entries, which helps them manage vehicles and rental reservations. This assessment presents the use of object-oriented programming (OOP) principles, role-based access control, and a service-layer architecture.
 
 ---
 
 ## Features
 
-### Client (Customer)
+### Client
 - User registration and login
 - View available vehicles
 - Book a vehicle by selecting rental dates
 - View personal reservations
 - View booking status and rental fee
 
-### Staff (Admin)
+### Staff
 - User registration and login
 - Add new vehicles
 - Update vehicle details
@@ -107,19 +104,7 @@ JB Vehicle Rental System
 - All data is stored in memory and is lost when the program terminates.
 - No persistent database is implemented.
 - No vehicle return or rental completion feature is included.
-- The system is console-based and does not include a graphical user interface.
-
----
-
-## License
-This project is released under the **MIT License** and is intended for educational purposes.
-
----
-
-## Credits
-**Developer:** Hassan Siddiqui  
-**Course:** MSE800 – Professional Software Engineering  
-**Institution:** Yoobee College of Creative Innovation  
+- The system is console-based and does not include a graphical user interface. 
 
 ---
 
